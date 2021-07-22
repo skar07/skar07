@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sanskar</h1>
 <h3 align="center">I'm a student, developer and a technology enthusiast.</h3>
 
-- 🔭 I’m currently working on [Route] projects(https://github.com/ForetagInc/route-frontend)
+- 🔭 I’m currently working on Route projects(https://github.com/ForetagInc/route-frontend)
 
 - 🌱 I’m currently learning **Full stack development, Data science**
 
